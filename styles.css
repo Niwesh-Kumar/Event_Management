@@ -1,0 +1,35 @@
+/* Your CSS styles go here */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 10px;
+    padding: 6px;
+}
+
+header {
+    background-color: #3109f9;
+    color: rgb(191, 8, 247);
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #3109f9;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+button {
+    padding: 5px 10px 5px 10px;
+    background-color: #060c0d;
+    color: rgb(191, 8, 247);
+    border: none;
+    cursor: pointer;
+}
+
+
